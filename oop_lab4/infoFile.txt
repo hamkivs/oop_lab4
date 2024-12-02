@@ -1,0 +1,13 @@
+Circle Information:
+Coordinates of the center of the circle: (0, 0)
+Radius of a circle: 10
+Length of a circle: 62.8
+Area of the circle: 314
+
+Rectangle information:
+Lower left point coordinates: (-7, -7)
+Width of rectangle: 14
+Height of rectangle: 14
+Rectangle perimeter: 56
+Area of a rectangle: 196
+
